@@ -7,7 +7,7 @@ This project was bootstrapped with [Wishdom Elementay School Committee](https://
 In the project directory, you can run:
 
 
-###You can see wishdom elementary school committe persons detail information (such as name,age,salary,rating)
+###You can see wishdom elementary school committe persons detail information (such as name,age,salary,rating).
 
 ###By clicking hire me button number of person and total salary will be shown in the cart.
 
