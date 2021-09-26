@@ -8,7 +8,7 @@ const Cart = (props) => {
     const total = cart.reduce(totalReducer, 0).toFixed(2)
 
     return (
-        <div className='cart-style position-fixed'>
+        <div className='cart-style'>
 
 
             <table class="table">

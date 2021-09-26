@@ -1,9 +1,10 @@
 .card-style{
     box-shadow: 4px 4px 7px rgb(90, 88, 88);
     background-color:rgb(233, 224, 212);
-    border: 1px 5px 5px solid rgb(32, 56, 32);
     width: 320px;
     margin-left: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(114, 111, 111);
     
 }
 
