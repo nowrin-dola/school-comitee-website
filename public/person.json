@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "615020bc9e0d200161cb20ef",
+        "name": "Berry Michael",
+        "picture": "https://randomuser.me/api/portraits/men/9.jpg",
+        "age": 36,
+        "gender": "male",
+        "phone": "+1 (988) 585-2165",
+        "rating": 32,
+        "salary": 1696.67
+    },
+    {
+        "_id": "615020bca609326163d6a818",
+        "name": "Lynette Hebert",
+        "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+        "age": 30,
+        "gender": "female",
+        "phone": "+1 (992) 485-3617",
+        "rating": 22,
+        "salary": 4642.29
+    },
+    {
+        "_id": "615020bc6afbcc4deec53235",
+        "name": "John Burns",
+        "picture": "https://randomuser.me/api/portraits/men/94.jpg",
+        "age": 32,
+        "gender": "male",
+        "phone": "+1 (855) 496-2404",
+        "rating": 29,
+        "salary": 4825.90
+    },
+    {
+        "_id": "615020bc16e5eb9bcbf17bfc",
+        "name": "Alfred Mcdonalid",
+        "picture": "https://randomuser.me/api/portraits/men/43.jpg",
+        "age": 31,
+        "gender": "male",
+        "phone": "+1 (884) 477-3318",
+        "rating": 34,
+        "salary": 1957.14
+    },
+    {
+        "_id": "615020bc40690f8c5febc1fd",
+        "name": "Lori Hunter",
+        "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+        "age": 35,
+        "gender": "female",
+        "phone": "+1 (848) 412-2504",
+        "rating": 27,
+        "salary": 2555.70
+    },
+    {
+        "_id": "615020bc941cbba562182542",
+        "name": "Helga Chaney",
+        "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+        "age": 46,
+        "gender": "female",
+        "phone": "+1 (814) 439-2756",
+        "rating": 41,
+        "salary": 2956.57
+    },
+    {
+        "_id": "615020bc3729234e80f48e5f",
+        "name": "Roland Woods",
+        "picture": "https://randomuser.me/api/portraits/men/97.jpg",
+        "age": 37,
+        "gender": "male",
+        "phone": "+1 (967) 576-3684",
+        "rating": 19,
+        "salary": 1503.37
+    },
+    {
+        "_id": "615020bcf33dbf66245fa3e2",
+        "name": "Thomas Morgan",
+        "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+        "age": 43,
+        "gender": "male",
+        "phone": "+1 (862) 528-2623",
+        "rating": 38,
+        "salary": 2039.54
+    },
+    {
+        "_id": "615020bcc21d368e100a7b0e",
+        "name": "Tom Hopkins",
+        "picture": "https://randomuser.me/api/portraits/men/49.jpg",
+        "age": 42,
+        "gender": "male",
+        "phone": "+1 (817) 448-3446",
+        "rating": 23,
+        "salary": 1943.91
+    },
+    {
+        "_id": "615020bc1e8740fc9689fec3",
+        "name": "Jackson Andrews",
+        "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+        "age": 33,
+        "gender": "male",
+        "phone": "+1 (854) 497-2477",
+        "rating": 26,
+        "salary": 1141.62
+    },
+    {
+        "_id": "615020bc6946baf048a1506c",
+        "name": "Rosie Huff",
+        "picture": "https://randomuser.me/api/portraits/women/49.jpg",
+        "age": 46,
+        "gender": "female",
+        "phone": "+1 (861) 446-3487",
+        "rating": 33,
+        "salary": 3681.92
+    },
+    {
+        "_id": "615020bc12a90229dfab4558",
+        "name": "Latoya Dillard",
+        "picture": "https://randomuser.me/api/portraits/women/95.jpg",
+        "age": 39,
+        "gender": "female",
+        "phone": "+1 (980) 597-2017",
+        "rating": 28,
+        "salary": 2668.51
+    }
+]
